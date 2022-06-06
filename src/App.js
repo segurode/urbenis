@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Helmet>
-        <title>React helmet powered</title>
+        <title>React helmet</title>
       </Helmet>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
