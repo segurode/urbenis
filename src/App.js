@@ -7,15 +7,15 @@ function App() {
   return (
     <div>
       <Helmet>
-        <title>Urbenis -</title>
+        <title>Seguros en Granollers - urbenis</title>
       </Helmet>
       <header >
-      <h1>Header</h1>
+      <h1>Agencia de seguros en Granollers - Urbenis</h1>
       </header>
       <main>
-        <p>main</p>
+        <p>En desarrollo</p>
       </main>
-      <footer>footer</footer>
+      <footer></footer>
     </div>
   );
 }
