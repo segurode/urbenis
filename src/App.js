@@ -15,7 +15,7 @@ function App() {
       <main>
         <p>En desarrollo</p>
       </main>
-      <footer></footer>
+      <footer>Pie de página...</footer>
     </div>
   );
 }
