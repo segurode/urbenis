@@ -14,10 +14,10 @@ function App() {
       </header>
       <main>
         <p>
-          En desarrollo
+          En desarrollo.
         </p>
       </main>
-      <footer></footer>
+      <footer>...</footer>
     </div>
   );
 }
