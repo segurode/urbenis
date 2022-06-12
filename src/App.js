@@ -10,7 +10,7 @@ function App() {
         <title>Seguros en Granollers - urbenis</title>
       </Helmet>
       <header >
-      <h1>Agencia de seguros en Granollers - Urbenis</h1>
+      <h1 className="text-3xl font-bold">Agencia de seguros en Granollers - Urbenis</h1>
       </header>
       <main>
         <p>
