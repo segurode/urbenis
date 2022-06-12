@@ -13,7 +13,9 @@ function App() {
       <h1>Agencia de seguros en Granollers - Urbenis</h1>
       </header>
       <main>
-        <p></p>
+        <p>
+          En desarrollo
+        </p>
       </main>
       <footer></footer>
     </div>
