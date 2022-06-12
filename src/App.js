@@ -1,7 +1,6 @@
 import React from 'react';
 import {Helmet} from 'react-helmet'
 //import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
