@@ -17,7 +17,7 @@ function App() {
           En desarrollo.
         </p>
       </main>
-      <footer></footer>
+      <footer>...</footer>
     </div>
   );
 }
